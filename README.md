@@ -1,3 +1,5 @@
+The SRC Folder is zip format. unzip it to run the program.
+
 Install NPM: 
 npm install 
 
